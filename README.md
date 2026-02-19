@@ -87,7 +87,7 @@ Users can explore multiple adventure categories:
 
 ### 🎯 Experiences Page
 
-![Experiences](./screenshots/e4.png)
+![Experiences](./screenshots/s4.png)
 
 ---
 
